@@ -1,3 +1,12 @@
-a
-b
-c
+inculde<studio.h>
+
+void main(void)
+{
+
+printf("hello world");
+
+
+}
+
+end
+
