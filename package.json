@@ -5,5 +5,8 @@
  "files": [
   "foo",
   "bar"
- ]
+ ],
+ "dependencies": {
+  "ip3_test_ian": "^1.0.0"
+ }
 }
